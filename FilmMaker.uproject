@@ -1,0 +1,29 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{5003999B-416A-E5C7-2C99-F0B65F1E33D3}",
+	"Category": "Games",
+	"Description": "Unreal Game as a Shared Library",
+	"Modules": [
+		{
+			"Name": "FilmMaker",
+			"Type": "Runtime",
+			"LoadingPhase": "EarliestPossible"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		},
+		{
+			"Name": "LiveDirector",
+			"Enabled": true
+		}
+	],
+	"TargetPlatforms": [
+		"Win64"
+	]
+}

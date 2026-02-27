@@ -1,0 +1,25 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.LiveDirector.cpp.obj": [
+			"AssetMappingRow.gen.cpp.obj",
+			"CinematicMovementComponent.gen.cpp.obj",
+			"GameplayTagsComponent.gen.cpp.obj",
+			"GameplayTagsHelperLibrary.gen.cpp.obj",
+			"LiveDirector.init.gen.cpp.obj",
+			"LiveDirectorBPLibrary.gen.cpp.obj",
+			"LiveDirectorDataTableComponent.gen.cpp.obj",
+			"Speech2FaceComponent.gen.cpp.obj",
+			"ThirdPersonCharacter.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"CinematicMovementComponent.cpp.obj",
+			"GameplayTagsComponent.cpp.obj",
+			"GameplayTagsHelperLibrary.cpp.obj",
+			"LiveDirector.cpp.obj",
+			"LiveDirectorBPLibrary.cpp.obj",
+			"LiveDirectorDataTableComponent.cpp.obj",
+			"Speech2FaceComponent.cpp.obj",
+			"ThirdPersonCharacter.cpp.obj"
+		]
+	}
+}

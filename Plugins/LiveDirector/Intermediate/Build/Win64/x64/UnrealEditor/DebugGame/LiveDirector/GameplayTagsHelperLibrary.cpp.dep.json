@@ -1,0 +1,32 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "h:\\ai4all\\pkgs\\unnu_fm\\windows\\filmmaker\\plugins\\livedirector\\source\\livedirector\\private\\gameplaytagshelperlibrary.cpp",
+        "ProvidedModule": "",
+        "PCH": "h:\\ai4all\\pkgs\\unnu_fm\\windows\\filmmaker\\intermediate\\build\\win64\\x64\\filmmakereditor\\debuggame\\unrealed\\sharedpch.unrealed.project.nonoptimized.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "h:\\ai4all\\pkgs\\unnu_fm\\windows\\filmmaker\\plugins\\livedirector\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\livedirector\\definitions.livedirector.h",
+            "h:\\ai4all\\pkgs\\unnu_fm\\windows\\filmmaker\\plugins\\livedirector\\source\\livedirector\\public\\gameplaytagshelperlibrary.h",
+            "h:\\ai4all\\pkgs\\unnu_fm\\windows\\ue_5.7\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagcontainer.h",
+            "h:\\ai4all\\pkgs\\unnu_fm\\windows\\ue_5.7\\engine\\source\\runtime\\core\\public\\misc\\comparisonutility.h",
+            "h:\\ai4all\\pkgs\\unnu_fm\\windows\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\uht\\gameplaytagcontainer.generated.h",
+            "h:\\ai4all\\pkgs\\unnu_fm\\windows\\filmmaker\\plugins\\livedirector\\intermediate\\build\\win64\\unrealeditor\\inc\\livedirector\\uht\\gameplaytagshelperlibrary.generated.h",
+            "h:\\ai4all\\pkgs\\unnu_fm\\windows\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystatics.h",
+            "h:\\ai4all\\pkgs\\unnu_fm\\windows\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "h:\\ai4all\\pkgs\\unnu_fm\\windows\\ue_5.7\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "h:\\ai4all\\pkgs\\unnu_fm\\windows\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\coreuobject\\uht\\propertyaccessutil.generated.h",
+            "h:\\ai4all\\pkgs\\unnu_fm\\windows\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetsystemlibrary.generated.h",
+            "h:\\ai4all\\pkgs\\unnu_fm\\windows\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\sound\\dialoguetypes.h",
+            "h:\\ai4all\\pkgs\\unnu_fm\\windows\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\dialoguetypes.generated.h",
+            "h:\\ai4all\\pkgs\\unnu_fm\\windows\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
+            "h:\\ai4all\\pkgs\\unnu_fm\\windows\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystaticstypes.generated.h",
+            "h:\\ai4all\\pkgs\\unnu_fm\\windows\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystatics.generated.h",
+            "h:\\ai4all\\pkgs\\unnu_fm\\windows\\filmmaker\\plugins\\livedirector\\source\\livedirector\\public\\gameplaytagscomponent.h",
+            "h:\\ai4all\\pkgs\\unnu_fm\\windows\\ue_5.7\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagassetinterface.h",
+            "h:\\ai4all\\pkgs\\unnu_fm\\windows\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\uht\\gameplaytagassetinterface.generated.h",
+            "h:\\ai4all\\pkgs\\unnu_fm\\windows\\filmmaker\\plugins\\livedirector\\intermediate\\build\\win64\\unrealeditor\\inc\\livedirector\\uht\\gameplaytagscomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

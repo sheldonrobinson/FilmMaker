@@ -1,0 +1,8 @@
+{
+	"BuildId": "47537391",
+	"Modules": 
+	{
+		"CinematicRenderer": "UnrealEditor-CinematicRenderer.dll",
+		"LiveDirector": "UnrealEditor-LiveDirector.dll"
+	}
+}

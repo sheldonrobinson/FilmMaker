@@ -1,0 +1,22 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "h:\\ai4all\\pkgs\\unnu_fm\\windows\\filmmaker\\plugins\\livedirector\\source\\livedirector\\private\\livedirector.cpp",
+        "ProvidedModule": "",
+        "PCH": "h:\\ai4all\\pkgs\\unnu_fm\\windows\\filmmaker\\intermediate\\build\\win64\\x64\\filmmakereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "h:\\ai4all\\pkgs\\unnu_fm\\windows\\filmmaker\\plugins\\livedirector\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\livedirector\\definitions.livedirector.h",
+            "h:\\ai4all\\pkgs\\unnu_fm\\windows\\filmmaker\\plugins\\livedirector\\source\\livedirector\\public\\livedirector.h",
+            "h:\\ai4all\\pkgs\\unnu_fm\\windows\\ue_5.7\\engine\\source\\editor\\leveleditor\\public\\leveleditor.h",
+            "h:\\ai4all\\pkgs\\unnu_fm\\windows\\ue_5.7\\engine\\source\\editor\\leveleditor\\public\\ileveleditor.h",
+            "h:\\ai4all\\pkgs\\unnu_fm\\windows\\ue_5.7\\engine\\source\\runtime\\engine\\public\\elements\\framework\\engineelementslibrary.h",
+            "h:\\ai4all\\pkgs\\unnu_fm\\windows\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\engineelementslibrary.generated.h",
+            "h:\\ai4all\\pkgs\\unnu_fm\\windows\\ue_5.7\\engine\\source\\editor\\leveleditor\\public\\viewporttypedefinition.h",
+            "h:\\ai4all\\pkgs\\unnu_fm\\windows\\ue_5.7\\engine\\source\\editor\\leveleditor\\public\\leveleditoroutlinersettings.h",
+            "h:\\ai4all\\pkgs\\unnu_fm\\windows\\ue_5.7\\engine\\source\\developer\\toolwidgets\\public\\filters\\genericfilter.h",
+            "h:\\ai4all\\pkgs\\unnu_fm\\windows\\ue_5.7\\engine\\source\\developer\\toolwidgets\\public\\filters\\filterbase.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

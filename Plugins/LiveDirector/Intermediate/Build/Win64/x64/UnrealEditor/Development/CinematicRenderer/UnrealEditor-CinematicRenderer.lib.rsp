@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-CinematicRenderer.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"H:/AI4All/pkgs/unnu_fm/windows/FilmMaker/Intermediate/Build/Win64/x64/FilmMakerEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"H:/AI4All/pkgs/unnu_fm/windows/FilmMaker/Plugins/LiveDirector/Intermediate/Build/Win64/x64/UnrealEditor/Development/CinematicRenderer/Module.CinematicRenderer.cpp.obj"
+"H:/AI4All/pkgs/unnu_fm/windows/FilmMaker/Plugins/LiveDirector/Intermediate/Build/Win64/x64/UnrealEditor/Development/CinematicRenderer/CinematicRenderer.cpp.obj"
+"H:/AI4All/pkgs/unnu_fm/windows/FilmMaker/Plugins/LiveDirector/Intermediate/Build/Win64/x64/UnrealEditor/Development/CinematicRenderer/CinematicRendererBPLibrary.cpp.obj"
+"H:/AI4All/pkgs/unnu_fm/windows/FilmMaker/Plugins/LiveDirector/Intermediate/Build/Win64/x64/UnrealEditor/Development/CinematicRenderer/CinematicRendererCommandlet.cpp.obj"
+"H:/AI4All/pkgs/unnu_fm/windows/FilmMaker/Plugins/LiveDirector/Intermediate/Build/Win64/x64/UnrealEditor/Development/CinematicRenderer/Default.rc2.res"
+/OUT:"H:/AI4All/pkgs/unnu_fm/windows/FilmMaker/Plugins/LiveDirector/Intermediate/Build/Win64/x64/UnrealEditor/Development/CinematicRenderer/UnrealEditor-CinematicRenderer.lib"

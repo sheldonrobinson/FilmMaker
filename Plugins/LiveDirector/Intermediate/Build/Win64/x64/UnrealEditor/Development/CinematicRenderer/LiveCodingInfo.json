@@ -1,0 +1,14 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.CinematicRenderer.cpp.obj": [
+			"CinematicRenderer.init.gen.cpp.obj",
+			"CinematicRendererBPLibrary.gen.cpp.obj",
+			"CinematicRendererCommandlet.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"CinematicRenderer.cpp.obj",
+			"CinematicRendererBPLibrary.cpp.obj",
+			"CinematicRendererCommandlet.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "h:\\ai4all\\pkgs\\unnu_fm\\windows\\filmmaker\\plugins\\livedirector\\source\\cinematicrenderer\\private\\cinematicrenderer.cpp",
+        "ProvidedModule": "",
+        "PCH": "h:\\ai4all\\pkgs\\unnu_fm\\windows\\filmmaker\\intermediate\\build\\win64\\x64\\filmmakereditor\\debuggame\\unrealed\\sharedpch.unrealed.project.nonoptimized.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "h:\\ai4all\\pkgs\\unnu_fm\\windows\\filmmaker\\plugins\\livedirector\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\cinematicrenderer\\definitions.cinematicrenderer.h",
+            "h:\\ai4all\\pkgs\\unnu_fm\\windows\\filmmaker\\plugins\\livedirector\\source\\cinematicrenderer\\public\\cinematicrenderer.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

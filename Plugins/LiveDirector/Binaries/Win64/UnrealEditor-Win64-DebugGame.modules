@@ -1,0 +1,8 @@
+{
+	"BuildId": "47537391",
+	"Modules": 
+	{
+		"CinematicRenderer": "UnrealEditor-CinematicRenderer-Win64-DebugGame.dll",
+		"LiveDirector": "UnrealEditor-LiveDirector-Win64-DebugGame.dll"
+	}
+}

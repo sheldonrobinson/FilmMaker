@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-CinematicRenderer-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"H:/AI4All/pkgs/unnu_fm/windows/FilmMaker/Intermediate/Build/Win64/x64/FilmMakerEditor/DebugGame/UnrealEd/SharedPCH.UnrealEd.Project.NonOptimized.ValApi.ValExpApi.Cpp20.h.obj"
+"H:/AI4All/pkgs/unnu_fm/windows/FilmMaker/Plugins/LiveDirector/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/CinematicRenderer/Module.CinematicRenderer.cpp.obj"
+"H:/AI4All/pkgs/unnu_fm/windows/FilmMaker/Plugins/LiveDirector/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/CinematicRenderer/CinematicRenderer.cpp.obj"
+"H:/AI4All/pkgs/unnu_fm/windows/FilmMaker/Plugins/LiveDirector/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/CinematicRenderer/CinematicRendererBPLibrary.cpp.obj"
+"H:/AI4All/pkgs/unnu_fm/windows/FilmMaker/Plugins/LiveDirector/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/CinematicRenderer/CinematicRendererCommandlet.cpp.obj"
+"H:/AI4All/pkgs/unnu_fm/windows/FilmMaker/Plugins/LiveDirector/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/CinematicRenderer/Default.rc2.res"
+/OUT:"H:/AI4All/pkgs/unnu_fm/windows/FilmMaker/Plugins/LiveDirector/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/CinematicRenderer/UnrealEditor-CinematicRenderer-Win64-DebugGame.lib"
